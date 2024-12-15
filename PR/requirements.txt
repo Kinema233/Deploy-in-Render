@@ -1,6 +1,0 @@
-Flask
-flask-smorest
-flask-jwt-extended
-Flask-SQLAlchemy
-psycopg2-binary
-gunicorn
