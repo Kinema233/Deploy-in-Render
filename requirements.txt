@@ -1,0 +1,7 @@
+Flask
+Flask-SQLAlchemy
+Flask-Smorest
+Flask-JWT-Extended
+gunicorn
+psycopg2-binary
+passlib
